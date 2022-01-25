@@ -19,3 +19,6 @@ Diese Projekt wurde im Unterricht erstellt
 Das ist Toll
 zweite Zeile
 </pre>
+
+# Mitschrift
+* Hallalli!
